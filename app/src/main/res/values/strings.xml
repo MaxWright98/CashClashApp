@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title">WELCOME\n TO\n CASHCLASH</string>
+
+    <string name="question1">Will there be more features added?</string>
+    <string name="question2">How is this app different to other money saving apps?</string>
+    <string name="question3">Will the app be available on IOS?</string>
+    <string name="question4">How long does it take to get a response?</string>
+
+    <string name="aboutParagraph">CashClash is a money saving application,
+        tailored towards students at university to help manage their money by seeing in depth exactly what and where they’re spending their money.
+</string>
+
+    <string name="aboutParagraph2">Typical money saving applications do not target younger people, plus they normally involve opening an account or paying a fee,
+        this is where CashClash is different. It specialises in creating complete breakdowns of your spending along with tips and vouchers on how to manage your money.</string>
+
+    <string name="answerOneTXT">Yes, the application is going through constant development so more features will be released over time.</string>
+    <string name="answerTwoTXT">Targeted at students, no sign up, no contract; just easy financing.</string>
+    <string name="answerThreeTXT">Eventually, but for the time being its an android based application as its developed through Android Studio.</string>
+
+    <string name="titleFunction">Monthly Money Breakdown</string>
+
+</resources>
