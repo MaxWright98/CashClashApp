@@ -9,7 +9,6 @@
 
     <EditText
         android:id="@+id/inputThreeFunc"
-        android:hint="Input 3"
         android:layout_width="373dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -18,15 +17,14 @@
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:ems="10"
+        android:hint="Week Three"
         android:inputType="textPersonName"
-        android:text="Week Three"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/inputTwoFunc" />
 
     <EditText
         android:id="@+id/inputFourFunc"
-        android:hint="Input 4"
         android:layout_width="373dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -35,15 +33,14 @@
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:ems="10"
+        android:hint="Week Four"
         android:inputType="textPersonName"
-        android:text="Week Four"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/inputThreeFunc" />
 
     <EditText
         android:id="@+id/inputTwoFunc"
-        android:hint="Input 2"
         android:layout_width="373dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -52,8 +49,8 @@
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:ems="10"
+        android:hint="Week Two"
         android:inputType="textPersonName"
-        android:text="Week Two"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/inputOneFunc" />
@@ -80,7 +77,6 @@
 
     <EditText
         android:id="@+id/inputOneFunc"
-        android:hint="Input 1"
         android:layout_width="373dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -89,8 +85,8 @@
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:ems="10"
+        android:hint="Week One"
         android:inputType="textPersonName"
-        android:text="Week One"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.636"
         app:layout_constraintStart_toStartOf="parent"
@@ -117,12 +113,13 @@
     <Button
         android:id="@+id/calculateButton"
         android:layout_width="115dp"
-        android:layout_height="58dp"
+        android:layout_height="46dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
+        android:background="@drawable/roundedbutton"
         android:text="Calculate"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
